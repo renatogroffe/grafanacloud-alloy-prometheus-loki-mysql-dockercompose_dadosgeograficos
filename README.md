@@ -18,3 +18,11 @@ A funcionalidade **Queries overview** no Grafana Cloud:
 ![Queries overview no Grafana Cloud 2](img/grafana-02.png)
 
 ![Queries overview no Grafana Cloud 3](img/grafana-03.png)
+
+Detalhes da query de estados:
+
+![Detalhes da query de estados](img/grafana-04.png)
+
+Detalhes da query de regiões:
+
+![Detalhes da query de regiões](img/grafana-05.png)
