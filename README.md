@@ -10,3 +10,11 @@ Query para consulta de estados executada via Adminer (gerenciandor Web de MySQL)
 E o mesmo tipo de consulta a regiões:
 
 ![Query de Regiões executada via Adminer](img/adminer-02.png)
+
+A funcionalidade **Queries overview** no Grafana Cloud:
+
+![Queries overview no Grafana Cloud 1](img/grafana-01.png)
+
+![Queries overview no Grafana Cloud 2](img/grafana-02.png)
+
+![Queries overview no Grafana Cloud 3](img/grafana-03.png)
